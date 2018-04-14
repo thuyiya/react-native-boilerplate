@@ -21,6 +21,7 @@ Before you use the app set your app facebook and google clientid to `constent/co
 1. **Before you start**
    1. [Getting Started with React Native](/docs/react-native.md)
    1. [React Native Quick Tips](/docs/quick-tips.md)
+   1. [Code Editor Configaration](#code-editor-configaration)
    1. [Understanding the File Structure](#understanding-the-file-structure)
    1. [Common Components](#common-modules)
    1. [Opinions Guiding this Project](/docs/instruction.md)
@@ -75,6 +76,13 @@ Before you use the app set your app facebook and google clientid to `constent/co
 ---
 
 For Clear and clean code, we use [EsLint](/project-template/.eslintrc) and Vscode configaration [Editor Configaration](/project-template/.editorconfig)
+
+## Code Editor Configaration
+
+1. Download the [VScode](https://code.visualstudio.com/)
+2. Install ESlint Extention for VScode
+3. Press CMD + , Then and `"eslint.autoFixOnSave": true,` 
+
 
 ## Understanding the File Structure
 
