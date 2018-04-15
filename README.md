@@ -72,6 +72,11 @@ Before you use the app set your app facebook and google clientid to `constent/co
 3. Delete ios and android folder if its exist in the root of the file by using `rm -rf ios android`
 4. Genarate ios and android folder again using `react-native eject`
 5. For check run the project in ios or android using run command from the react native Docs
+6. Setup version control, setup git environment in your machine
+7. Remove existing .git file from the project `rm -rf .git`
+8. Git init `git init`
+9. Add git remote `git remote add origin <YOUR_REPO_URL>`
+10. Checkout for other branches if that match for your case. 
 
 ---
 
@@ -82,7 +87,6 @@ For Clear and clean code, we use [EsLint](/project-template/.eslintrc) and Vscod
 1. Download the [VScode](https://code.visualstudio.com/)
 2. Install ESlint Extention for VScode
 3. Press CMD + , Then and `"eslint.autoFixOnSave": true,` 
-
 
 ## Understanding the File Structure
 
