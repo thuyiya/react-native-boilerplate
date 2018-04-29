@@ -5,7 +5,7 @@
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/thuyiya/react-native-boilerplate.svg?style=flat-square)](https://github.com/thuyiya/react-native-boilerplate/issues-closed)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/thuyiya/react-native-boilerplate.svg?style=flat-square)](https://github.com/thuyiya/react-native-boilerplate/issues-pr)
 
-![- React Native](/docs/img/boilerplate_cover.png "React Native Boiler Plate")
+![- React Native](https://raw.githubusercontent.com/thuyiya/react-native-boilerplate/master/docs/img/boilerplate_cover.png "React Native Boiler Plate")
 
 # React Native Sample Project
 
