@@ -17,11 +17,6 @@ import {
 } from "react-native/Libraries/NewAppScreen";
 import PropTypes from "prop-types";
 
-Section.propTypes = {
-  children: PropTypes.number.isRequired,
-  title: PropTypes.element.isRequired,
-};
-
 const Section = ({ children, title }) => {
   const isDarkMode = useColorScheme() === "dark";
   return (
@@ -48,6 +43,11 @@ const Section = ({ children, title }) => {
       </Text>
     </View>
   );
+};
+
+Section.propTypes = {
+  children: PropTypes.string.isRequired,
+  title: PropTypes.element.isRequired,
 };
 
 const App = () => {
