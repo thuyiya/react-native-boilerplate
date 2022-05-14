@@ -46,8 +46,8 @@ const Section = ({ children, title }) => {
 };
 
 Section.propTypes = {
-  children: PropTypes.string.isRequired,
-  title: PropTypes.element.isRequired,
+  children: PropTypes.element.isRequired,
+  title: PropTypes.string.isRequired,
 };
 
 const App = () => {
