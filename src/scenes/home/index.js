@@ -8,6 +8,7 @@ const HomeScreen = ({ navigation }) => (
 
     <TouchableHighlight onPress={() => navigation.navigate("Login")}>
       <Text>Go to Login</Text>
+      <Text>Label Update</Text>
     </TouchableHighlight>
   </SafeAreaView>
 );
